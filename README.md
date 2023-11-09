@@ -14,12 +14,14 @@ Resume Section: Provide a link to download your resume in PDF format.
 Contact Section: Include your contact information, such as email address and phone
 number.
 Footer: Add a copyright notice and any additional links or information
+T![portfolio](https://github.com/DeeprajGhadashi/CODSOFT/assets/129051845/955be689-6cb9-4f0c-8629-be72af9d910c)
 
-TASK 2
+ASK 2
 Build a simple to-do list application that allows users to add,
 edit, and delete tasks. You can use HTML, CSS, and JavaScript
 for the front-end and store the tasks in local storage or a simple
 backend server using technologies like Node.js or Flask
+![To-Do List](https://github.com/DeeprajGhadashi/CODSOFT/assets/129051845/7d84990e-f6ad-435e-8d52-61ca643ab745)
 
 
 TASK 3
@@ -29,6 +31,8 @@ operations. The calculator should have a display screen to show user input and r
 CSS grid system for button alignments. Use event listeners, if-else statements, operators, and
 loops to handle user input and perform calculations. This project requires some skill but can be
 done with basic knowledge of these technologies..
+![Calculator](https://github.com/DeeprajGhadashi/CODSOFT/assets/129051845/8b76260d-74e1-4256-affd-4b94b33a6ac5)
+
 
 LEVEL 2 TASK 1
 With basic knowledge of HTML and CSS, you can create a webpage dedicated to someone you
