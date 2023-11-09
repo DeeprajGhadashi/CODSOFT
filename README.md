@@ -14,9 +14,9 @@ Resume Section: Provide a link to download your resume in PDF format.
 Contact Section: Include your contact information, such as email address and phone
 number.
 Footer: Add a copyright notice and any additional links or information
-T![portfolio](https://github.com/DeeprajGhadashi/CODSOFT/assets/129051845/955be689-6cb9-4f0c-8629-be72af9d910c)
+![portfolio](https://github.com/DeeprajGhadashi/CODSOFT/assets/129051845/955be689-6cb9-4f0c-8629-be72af9d910c)
 
-ASK 2
+TASK 2
 Build a simple to-do list application that allows users to add,
 edit, and delete tasks. You can use HTML, CSS, and JavaScript
 for the front-end and store the tasks in local storage or a simple
@@ -41,3 +41,5 @@ layout. Experiment with font styles, use paragraphs effectively, and play with b
 colors. This project allows you to express your admiration in a simple and personalized way.
 
 https://netaji-subhash-chandra-bose.netlify.app/
+
+![Tribute page](https://github.com/DeeprajGhadashi/CODSOFT/assets/129051845/3ecf187d-31d1-4a52-b7df-724b57b3108b)
